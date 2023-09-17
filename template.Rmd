@@ -2,10 +2,7 @@
 title: "Simple document"
 author: "You Wu"
 date: "2023-09-12"
-output: 
-  html_document:
-    toc: True
-    toc_float: True
+output: github_document
 ---
 
 ```{r,echo=FALSE,message=FALSE}
